@@ -29,9 +29,3 @@ The Electronic Voting System is designed to facilitate secure and confidential v
 - `audit.py`: Handles vote auditing and counting.
 - `votes.txt`: File used to store encrypted votes.
 
-## Installation
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/Sushmita/electronic_voting_system.git
